@@ -35,10 +35,6 @@
 
 <br />
 <br />
-
-
-
-
 ---
 
 <img align="left" alt="sumitpandey23's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sumitpandey23&show_icons=true&hide_border=true" />
