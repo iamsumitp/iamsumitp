@@ -1,4 +1,4 @@
-### Hi there, I'm Sumit Pandey - aka [codeSTACKr][website] 👋
+### Hi there, I'm Sumit Pandey 👋
 
 ## I'm a Competitive Coder,Developer, and learner!
 - 🔭 I’m currently learning Competitive Coding
