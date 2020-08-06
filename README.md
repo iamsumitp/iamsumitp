@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to be good in development
 - 🥅 2020 Goals: Improve my CP Skills
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to play video games and workout
 
 ### Connect with me:
 
