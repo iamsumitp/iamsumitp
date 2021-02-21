@@ -4,7 +4,7 @@
 - 🔭 I’m currently learning Competitive Coding
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to be good in development
-- 🥅 2020 Goals: Improve my CP Skills
+- 🥅 2021 Goals: Improve my CP Skills
 - ⚡ Fun fact: I love to play video games and workout
 
 ### Connect with me:
