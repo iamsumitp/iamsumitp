@@ -1,38 +1,59 @@
-### Hi there, I'm Sumit Pandey 👋
+### Hi there 👋
+# 💫 About Me:
 
-## I'm a Competitive Coder,Developer, and learner!
-- 🔭 I’m currently learning Competitive Coding
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to be good in development
-- 🥅 2021 Goals: Improve my CP Skills
-- ⚡ Fun fact: I love to play video games and workout
+👋🏽 Hi, my name is Sumit, which is a Sanskrit word derived from the Vedas and it translates to - good friend. 
 
-### Connect with me:
+🎓 Grad with a Bachelor's of Engineering in Computer Science Engineering.
 
-[<img align="left" alt="sumitpandey23 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="sumitpandey23 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="sumitpandey23 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+🌇 Mumbai Native, with a passion for solving problems .
 
-<br />
+📚 I have worked on synthetic data generation, product promotion optimization, built solution for TV content compliance using Deep Learning, customer segmentation and price optimization that helped businesses grow. I have extensive experience with Git, Python, TensorFlow, PySpark and AWS Sage Maker.
 
-### Languages and Tools:
-<img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />
-<br />
-<br />
+💻 As for my future, I hope to one day work as Researcher at Google Brain and work with a diverse team of great minds in the field of Computer Vision.
+
+🏔 In my free time, you can find me either Gaming or in the gym.
+
+💪🏽 Data Science solution pipeline planning, Computer Vision Research, Deep Learning architecture improving, Mentoring.
+
+<!-- ## :nerd_face: Research :thinking:
+
+Most of my research is dedicated towards solving applications in media and entertainment industry along with data science solutions to finance industry. -->
+
+<br>
+<p align="center">
+<img align="right" width="375" alt="GIF" src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/dev.gif" />
+</p>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamsumitp) 
+- My Work: [Resume/CV](https://iamarchisha.github.io/ArchishaChandel_CV.pdf)
+- Personal Blog: [iamarchisha.github.io](https://iamarchisha.github.io)
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=iamsumitp&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=iamsumitp&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsumitp&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=iamsumitp&icon=0&color=10)](https://visitcount.itsvg.in)
 
-<img align="left" alt="sumitpandey23's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sumitpandey23&show_icons=true&hide_border=true" />
+<!-- - Twitter: [@iamXXVI](https://twitter.com/iamXXVI) -->
+<!-- 
+## Happening these days
+- 🔭 I’m currently working on building a Smart Video Analytics Platform
+- 🌱 I’m currently learning Natural Language Processing
+- 👯 I’m looking to collaborate on Machine Learning Projects -->
 
+<!--
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
-[twitter]: https://twitter.com/KeepGoingSumit
-[instagram]: https://www.instagram.com/sycozzy
-[linkedin]: https://www.linkedin.com/in/sumit-pandey-a2a662180
+-->
