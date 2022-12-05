@@ -9,11 +9,11 @@
 
 📚 I have worked on synthetic data generation, product promotion optimization, built solution for TV content compliance using Deep Learning, customer segmentation and price optimization that helped businesses grow. I have extensive experience with Git, Python, TensorFlow, PySpark and AWS Sage Maker.
 
-💻 As for my future, I hope to one day work as Researcher at Google Brain and work with a diverse team of great minds in the field of Computer Vision.
+💻 As for my future, I hope to one day work as Researcher at Google and work with a diverse team of great minds.
 
 🏔 In my free time, you can find me either Gaming or in the gym.
 
-💪🏽 Data Science solution pipeline planning, Computer Vision Research, Deep Learning architecture improving, Mentoring.
+<!--💪🏽 Data Science solution pipeline planning, Computer Vision Research, Deep Learning architecture improving, Mentoring.-->
 
 <!-- ## :nerd_face: Research :thinking:
 
@@ -26,8 +26,9 @@ Most of my research is dedicated towards solving applications in media and enter
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamsumitp) 
-- My Work: [Resume/CV](https://iamarchisha.github.io/ArchishaChandel_CV.pdf)
-- Personal Blog: [iamarchisha.github.io](https://iamarchisha.github.io)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sumitp2398@gmail.com) 
+- My Work: [Resume/CV](https://drive.google.com/drive/folders/1xMJuQhfpVnIdnrVVkiY6fWqNldseaSbR)
+<!-- - Personal Blog: [iamarchisha.github.io](https://iamarchisha.github.io)-->
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
