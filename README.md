@@ -26,8 +26,8 @@ Most of my research is dedicated towards solving applications in media and enter
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamsumitp) 
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sumitp2398@gmail.com) 
-- My Work: [Resume/CV](https://drive.google.com/drive/folders/1xMJuQhfpVnIdnrVVkiY6fWqNldseaSbR)
+<!--[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sumitp2398@gmail.com)--> 
+- My Work: [Resume/CV](https://drive.google.com/file/d/1xvHIBHqExQkn7J2y41wdwAvLESzTEXtB/view?usp=share_link)
 <!-- - Personal Blog: [iamarchisha.github.io](https://iamarchisha.github.io)-->
 
 # 💻 Tech Stack:
