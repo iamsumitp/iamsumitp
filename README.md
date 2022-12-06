@@ -1,6 +1,8 @@
 ### Hi there 👋
 # 💫 About Me:
-
+<p align="center">
+<img align="right" width="375" alt="GIF" src="https://github.com/iamsumitp/iamsumitp/blob/master/coder.gif" />
+</p>
 👋🏽 Hi, my name is Sumit, which is a Sanskrit word derived from the Vedas and it translates to - good friend. 
 
 🎓 Grad with a Bachelor's of Engineering in Computer Science Engineering.
