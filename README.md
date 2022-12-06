@@ -3,17 +3,22 @@
 <p align="center">
 <img align="right" width="375" alt="GIF" src="https://github.com/iamsumitp/iamsumitp/blob/master/coder.gif" />
 </p>
-👋🏽 Hi, my name is Sumit, which is a Sanskrit word derived from the Vedas and it translates to - good friend. 
+
+👋🏽 Hi, my name is [Sumit](https://www.linkedin.com/in/iamsumitp/)  which is a Sanskrit word derived from the Vedas and it translates to - good friend. 
 
 🎓 Grad with a Bachelor's of Engineering in Computer Science Engineering.
 
 🌇 Mumbai Native, with a passion for solving problems .
 
-📚 I have worked on synthetic data generation, product promotion optimization, built solution for TV content compliance using Deep Learning, customer segmentation and price optimization that helped businesses grow. I have extensive experience with Git, Python, TensorFlow, PySpark and AWS Sage Maker.
+📚 I am a  passionate self-taught full stack developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 💻 As for my future, I hope to one day work as Researcher at Google and work with a diverse team of great minds.
 
 🏔 In my free time, you can find me either Gaming or in the gym.
+
+💼 any freelance work? do reach, [email](mailto:sumitp2398@gmail.com) :)
+
+💬 ask me about anything, i am happy to help;
 
 <!--💪🏽 Data Science solution pipeline planning, Computer Vision Research, Deep Learning architecture improving, Mentoring.-->
 <p align="center">
@@ -22,7 +27,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamsumitp)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sumitp2398@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitp2398@gmail.com)
 ![GFG](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://linkedin.com/in/iamsumitp)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://linkedin.com/in/iamsumitp)
